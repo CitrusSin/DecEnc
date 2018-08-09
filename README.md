@@ -2,6 +2,7 @@
 # 介绍DecEnc工具
 DecEnc是一个.dec文件加/解密器，可以快速生成.dec文件供[Hacknet](hacknet_url)游戏的Mod制作。
 如果你看不懂以上内容，我建议你先玩玩[Hacknet](hacknet_url)这个游戏。
+[下载DecEnc](https://github.com/Micrafast/DecEnc/releases)
 
 -----------------------------------------------------------------------------------------------------------
 
